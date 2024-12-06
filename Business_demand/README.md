@@ -1,18 +1,22 @@
 ## About This Data
-This dataset has information about the customer and its location. Use it to identify unique customers in the orders dataset and to find the orders delivery location.
+AdventureWorksDW2019 is a sample data warehouse database provided by Microsoft, commonly used for learning and demonstrating data analysis, business intelligence (BI), and data warehousing concepts. 
+Here's [link](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) for this
+
+## Business Demand Overview:
+- Reporter : steven - sales manager
+- Value of changes : A visual dashboard and improve internet sales reports or focus on the products sell the most , to which customers over time
+- Necessary systems : Power Pi, CRM system
+- Other relevant info : Budget have been delivered for 2021
 
 ## To-dos
+| No #     | Role        | Request / Demand        | User value        | System        |
+|--------------|--------------|--------------|--------------|--------------|
+| 1  | Sales Manager  | a visual dashboards overview of internet sales reports  | can follow better which customers and products sells the best  | a Power Pi dashboard which updates data once a day  |
+| 2  | Sales representative  | a detailed overview of internet sales per customer  | can follow up our customers that buys the most and who we can sell more to   | a Power Pi dashboard which allows me to filter data for each customer  |
+| 3  | Sales representative  | a detailed overview of internet sales per products  | can follow up my product that sells the most  | a Power pi dashboard which allows me to filter data for each product  |
+| 4  | Sales manager  | a dashboard overview of internet sales  | follow sales over time against budget  | a Power pi dashboard with charts and KPIs comparing against  |
 
-- [x] EDA
-- [x] Build Cohort Analytics
-- [x] Retention Rate
-- [x] Churn Rate
-- [x] Customer Retention KPIs
-- [x] Build RFM model
-- [x] CLV Basic, BG-NBD, Gamma Gamma
-- [x] Predict
-
-Here is the [Data](https://drive.google.com/drive/folders/1n-5J0S2Pp-BblQrhUbYh_lQMUq1gk6Xe) that we're going to analyze.
+We use Sql statements to retrieve this data and convert it into csv files.
 
 ## Explore Data
    ![image](https://github.com/user-attachments/assets/0ade29dd-3dd6-4b8a-835b-8b19d908259c)
