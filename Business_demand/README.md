@@ -19,7 +19,8 @@ Here's [link](https://learn.microsoft.com/en-us/sql/samples/adventureworks-insta
 We use Sql statements to retrieve this [data](https://github.com/duykhanh2612/Portfolio_Projects/tree/main/Business_demand/Sql%20statements) and export it into csv [files](https://github.com/duykhanh2612/Portfolio_Projects/tree/main/Business_demand/File%20csv).
 
 ## Analyze Data
-   ![Model_data](https://github-production-user-asset-6210df.s3.amazonaws.com/142284485/393096648-5899d804-6db6-471a-a66d-1e37a4bf503f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241206%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241206T041626Z&X-Amz-Expires=300&X-Amz-Signature=ebfb8244dd89ce9180cb0614edf8d370af8f91f3b197fa06bf64e6128aaf5e50&X-Amz-SignedHeaders=host)
+ ![Model_data-1](https://github.com/user-attachments/assets/1c870b48-368a-48bd-a2ca-4ea48bb70a87)
+
 
 After cleaning and formatting the data, we use the dashboard to visualize this data. [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRhZDAzMzAtN2Y4Mi00ZDc3LWFlODItMDZmN2Y0OWE4M2E1IiwidCI6ImU4YTc3YWM0LTNhMDQtNDkwNC1iYmIzLTZmMjY4OGNjY2FlZSJ9) to control this dashboard
 
