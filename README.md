@@ -1,3 +1,4 @@
 # Portfolio Projects
 
-![banner2](https://github.com/user-attachments/assets/9856ba94-e6d4-45aa-8266-c822c781879d)
+![banner2_](https://github.com/user-attachments/assets/345d6544-5a30-4ee7-8ec3-5a693103f1dc)
+
