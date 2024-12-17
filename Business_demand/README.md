@@ -27,5 +27,5 @@ We use Sql statements to retrieve this [data](https://github.com/duykhanh2612/Po
 The finished sales management dashboard with one pages that 
 works as dashboard and overview, with two pages focused on 
 combining tables for necessary details and visualizations to show 
-sales over time, per customers and per products. [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRhZDAzMzAtN2Y4Mi00ZDc3LWFlODItMDZmN2Y0OWE4M2E1IiwidCI6ImU4YTc3YWM0LTNhMDQtNDkwNC1iYmIzLTZmMjY4OGNjY2FlZSJ9) to control this dashboard
+sales over time, per customers and per products. [Link](https://app.powerbi.com/view?r=eyJrIjoiM2E0YjgwNTUtYjYxNi00YmI2LTlhOWItNjc0N2ExYTZjNjg3IiwidCI6ImU4YTc3YWM0LTNhMDQtNDkwNC1iYmIzLTZmMjY4OGNjY2FlZSJ9) to control this dashboard
 
