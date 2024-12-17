@@ -20,7 +20,12 @@ We use Sql statements to retrieve this [data](https://github.com/duykhanh2612/Po
 
 ## Analyze Data
  ![Model_data-1](https://github.com/user-attachments/assets/1c870b48-368a-48bd-a2ca-4ea48bb70a87)
+ ![Customer Details](https://github.com/user-attachments/assets/7313196e-614e-4ebe-99d7-c5f744339af8)
+ ![Product Details](https://github.com/user-attachments/assets/9d36d0b8-569d-4922-8fc5-4e6301f7cc9c)
 
 
-After cleaning and formatting the data, we use the dashboard to visualize this data. [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRhZDAzMzAtN2Y4Mi00ZDc3LWFlODItMDZmN2Y0OWE4M2E1IiwidCI6ImU4YTc3YWM0LTNhMDQtNDkwNC1iYmIzLTZmMjY4OGNjY2FlZSJ9) to control this dashboard
+The finished sales management dashboard with one pages that 
+works as dashboard and overview, with two pages focused on 
+combining tables for necessary details and visualizations to show 
+sales over time, per customers and per products. [Link](https://app.powerbi.com/view?r=eyJrIjoiYzRhZDAzMzAtN2Y4Mi00ZDc3LWFlODItMDZmN2Y0OWE4M2E1IiwidCI6ImU4YTc3YWM0LTNhMDQtNDkwNC1iYmIzLTZmMjY4OGNjY2FlZSJ9) to control this dashboard
 
