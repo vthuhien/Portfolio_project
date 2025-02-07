@@ -11,6 +11,7 @@ Mình đang tính làm project thứ 2 thì mình phải qua học mos excel k s
 
 ### Project 2 : [Link](https://github.com/vthuhien/Portfolio_project/tree/main/Business_demand) for more details, [Link](https://app.powerbi.com/view?r=eyJrIjoiMzUwOGU1YjgtMmM0NC00YTYxLWFlODUtNjhiN2M3MjVkN2ExIiwidCI6ImU4YTc3YWM0LTNhMDQtNDkwNC1iYmIzLTZmMjY4OGNjY2FlZSJ9) to control this dashboard
 
+![banner5](https://github.com/user-attachments/assets/479d59df-9a6a-4082-90e4-147fb4d17bfc)
 ![Sales_Data](https://github.com/user-attachments/assets/6734e925-d361-4c3c-a26b-3e5a817e2c7c)
 
 
