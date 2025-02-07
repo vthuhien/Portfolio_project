@@ -1,6 +1,5 @@
 # SQL Portfolio Projects
 
-Mình đang tính làm project thứ 2 thì mình phải qua học mos excel k sợ mai lười k học=)) nên qua tết mình làm tip ha
 ![banner1](https://github.com/user-attachments/assets/cb1cbefa-60de-4976-a80d-4dfd26c107ed)
 ![banner2_](https://github.com/user-attachments/assets/345d6544-5a30-4ee7-8ec3-5a693103f1dc)
 
